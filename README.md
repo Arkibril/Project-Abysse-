@@ -4,6 +4,8 @@
 Ce projet explore les **effets de parallaxe** sous toutes leurs formes à travers une **immersion interactive** dans les profondeurs des abysses.  
 L'objectif est de créer une expérience visuelle unique en utilisant différentes **techniques de parallaxe** appliquées à des éléments marins animés.  
 
+ATTENTION : 
+Ouvrir le site avec un serveur.
 ---
 
 ## 🛠 Technologies utilisées  
