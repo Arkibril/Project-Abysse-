@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #24263b;
+        mix-blend-mode: soft-light;
+      }
+
+      .cls-2 {
+        fill: #2f344f;
+        mix-blend-mode: multiply;
+        opacity: .8;
+      }
+
+      .cls-3 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_12);
+      }
+
+      .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-5 {
+        fill: #000821;
+      }
+    </style>
+    <linearGradient id="_Áåçûìÿííûé_ãðàäèåíò_12" data-name="Áåçûìÿííûé ãðàäèåíò 12" x1="433.24" y1="1013.88" x2="433.24" y2="927.35" gradientTransform="translate(25.84 -288.14) rotate(2.84)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#040d42"/>
+      <stop offset=".99" stop-color="#060238"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-4">
+    <g id="Calque_34" data-name="Calque 34">
+      <g>
+        <polygon class="cls-3" points="429.9 660.4 533.66 690.21 532.77 708.14 526.62 711.2 526.29 717.9 535.47 718.36 540.54 734.45 280.05 739.61 277.44 732.79 291.05 717.17 289.33 701.08 429.9 660.4"/>
+        <polygon class="cls-5" points="429.9 660.4 533.66 690.21 413.55 714.69 289.33 701.08 429.9 660.4"/>
+        <polygon class="cls-5" points="291.05 717.17 358.74 720.53 277.44 732.79 291.05 717.17"/>
+        <polygon class="cls-5" points="535.47 718.36 492.66 732.48 426.06 721.05 526.29 717.9 535.47 718.36"/>
+        <polygon class="cls-2" points="413.55 714.69 413.55 736.96 358.74 738.05 358.74 720.53 291.05 717.17 289.33 701.08 413.55 714.69"/>
+        <polygon class="cls-1" points="348.35 706.2 370.35 689.15 468.54 687.19 470.78 692.51 439.04 709.49 413.55 714.69 348.35 706.2"/>
+        <polygon class="cls-1" points="345.18 700.94 351.44 690.86 339.86 689.15 313.57 695.43 345.18 700.94"/>
+        <polygon class="cls-1" points="420.42 678.8 426.06 671.23 441.4 671.17 434.13 674.98 420.42 678.8"/>
+      </g>
+    </g>
+  </g>
+</svg>
