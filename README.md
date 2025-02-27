@@ -10,7 +10,23 @@ L'objectif est de créer une expérience visuelle unique en utilisant différent
 - **HTML & CSS** → Structure et design  
 - **JavaScript (Parallax.js, IntersectionObserver)** → Effets de mouvement  
 - **Lottie.js** → Animations fluides  
+- **GSAP (GreenSock)** → Animations avancées et gestion des transitions  
+- **Three.js** → Effets 3D et rendu immersif  
+- **ScrollMagic** → Contrôle des animations en fonction du scroll  
 - **SVG & PNG** → Illustrations des fonds marins  
+
+---
+
+## 📚 Bibliothèques et dépendances  
+Voici la liste des bibliothèques utilisées avec leurs liens officiels :  
+
+| 📦 **Librairie**  | 🔗 **Lien officiel** |
+|-----------------|-----------------|
+| **Parallax.js** | [https://github.com/wagerfield/parallax](https://github.com/wagerfield/parallax) |
+| **Lottie.js** | [https://airbnb.io/lottie/#/web](https://airbnb.io/lottie/#/web) |
+| **GSAP (GreenSock)** | [https://greensock.com/gsap/](https://greensock.com/gsap/) |
+| **Three.js** | [https://threejs.org/](https://threejs.org/) |
+| **ScrollMagic** | [https://scrollmagic.io/](https://scrollmagic.io/) |
 
 ---
 
@@ -19,6 +35,8 @@ L'objectif est de créer une expérience visuelle unique en utilisant différent
 ✅ **Animation des éléments en fonction du scroll**  
 ✅ **Interaction fluide avec l'utilisateur**  
 ✅ **Effets de mouvement progressif des poissons et autres éléments**  
+✅ **Utilisation de Three.js pour des effets de profondeur en 3D**  
+✅ **Animations fluides grâce à GSAP et Lottie.js**  
 
 ---
 
@@ -26,3 +44,6 @@ L'objectif est de créer une expérience visuelle unique en utilisant différent
 1. **Cloner le repo** :  
    ```bash
    git clone https://github.com/ton-utilisateur/nom-du-repo.git
+
+
+Créer et codée par Bussy Jibril, et Eray Zengin
